@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Labb2</string>
+    <string name="snowballDescription">A snowball</string>
+    <string name="crackImage">crackImage</string>
+    <string name="crackToast">Hoppsan!</string>
+    <string name="bdayImage">bdayImage</string>
+    <string name="bdayToast">Grattis på Födelsedagen!</string>
+    <string name="bdayDescription">A button</string>
+    <string name="bdaybutton">Birthday Button</string>
+</resources>
